@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fossilMo - Moroccan Fossils</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact-info {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>	
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to fossilMo</h1>
+        <h2>Moroccan Fossils</h2>
+        <p>Explore the ancient world through Moroccan fossils, specializing in rocks, ammonites, and more.</p>
+        <p>With over 2000 pieces sold to over 40 universities worldwide, we are passionate about sharing the wonders of paleontology.</p>
+        <div class="contact-info">
+            <p>For inquiries and orders, contact us:</p>
+            <p>WhatsApp: <a href="https://wa.me/212651403262">+212 651-403262</a></p>
+            <p>Email: <a href="mailto:hamnyayoub@gmail.com">hamnyayoub@gmail.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
